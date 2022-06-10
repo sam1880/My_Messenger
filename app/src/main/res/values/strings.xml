@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Messenger</string>
+    <string name="hint">write something here</string>
+    <string name="submit">submit</string>
+    <string name="send">send message</string>
+    <string name="share">share</string>
+    <string name="chooser">send messages via...</string>
+</resources>
